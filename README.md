@@ -5,6 +5,9 @@
 ------
 
 ### Привет, меня зовут Константин! 👋
+- Я Java-разработчик с 2-летним стажем
+- Люблю кодить на Java, Spring
+- Также люблю спорт, путешествия, животных и кино
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KonstantinAvdeev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/https://t.me/avdeev_konst) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:avdeevkv91@gmail.com) 
 -------
 ###  Социальные сети:
